@@ -30,14 +30,13 @@
    
   </style>
 </head>
-<body>
-
 <!-- NAVBAR -->
 
 <?php
   include '../../detail/bootstrap.php';
   include '../../detail/navbar.php';
 ?>
+<body>
 <br>
 <br>
 <br>
